@@ -8,10 +8,10 @@ Write things in markup
 
 *italic*
 
-#title1
+# title1
 
-##title2
+## title2
 
-###title3
+### title3
 
 Add a line between two lines if you want a carriage return
