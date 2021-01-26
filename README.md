@@ -1,4 +1,5 @@
 # Sound PIrates
+![Sound PIrates logo]({{ site.url }}/assets/bushed-no-eye.png)
 
 Website stuff is going here at the moment
 
