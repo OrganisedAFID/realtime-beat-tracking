@@ -1,4 +1,4 @@
-# our-project-name
+# Sound PIrates
 
 Website stuff is going here at the moment
 
