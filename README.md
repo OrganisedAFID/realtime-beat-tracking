@@ -17,4 +17,4 @@ Write things in markup
 
 Add a line between two lines if you want a carriage return
 
-Link to our website: https://organisedafid.github.io/our-project-name/
+Link to our website: https://organisedafid.github.io/sound-pirates/
