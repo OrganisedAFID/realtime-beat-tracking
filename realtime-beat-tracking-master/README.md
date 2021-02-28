@@ -4,6 +4,9 @@
 
 Used for obtaining a visual representation of the FFT of a specified sample taken real time from the computer's microphone using the RtAudio API.
 
+## Notes: realtime-beat-tracking-master is modified from https://github.com/shortstheory/realtime-beat-tracking
+
+
 ## Installation
 
 First makes sure you have installed the required libraries using:
