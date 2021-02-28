@@ -6,7 +6,7 @@ Used for obtaining a visual representation of the FFT of a specified sample take
 
 ## Notes: 
 realtime-beat-tracking-master folder is modified from: https://github.com/shortstheory/realtime-beat-tracking. 
-Modifications: Print complex FFT to command lines (26/02/2021) 
+Modifications: Print complex FFT to command line (26/02/2021) 
 
 ## Installation
 
