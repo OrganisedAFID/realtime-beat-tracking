@@ -5,8 +5,8 @@
 Used for obtaining a visual representation of the FFT of a specified sample taken real time from the computer's microphone using the RtAudio API.
 
 ## Notes: 
-realtime-beat-tracking-master foilder is modified from https://github.com/shortstheory/realtime-beat-tracking
-
+realtime-beat-tracking-master folder is modified from: https://github.com/shortstheory/realtime-beat-tracking
+Modification: Print complex FFT to command lines (26/02/2021) 
 
 ## Installation
 
