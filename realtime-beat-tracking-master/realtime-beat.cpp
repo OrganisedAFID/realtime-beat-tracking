@@ -43,7 +43,7 @@ void fft(std::vector<signed short> &rawValues, std::vector<double> &output) //mo
     fftw_execute(p);
     for ( i = 0; i < n / 2; i++) {
         output.push_back(sqrt(outputChannel[i][0] * outputChannel[i][0] + outputChannel[i][1] * outputChannel[i][1]));
-        std::cout << outputChannel[i][0] << "-" << abs(outputChannel[i][1]) << "i" << "\n";
+      //  std::cout << outputChannel[i][0] << "-" << abs(outputChannel[i][1]) << "i" << "\n";
     }
     output[0] = 0;
 
@@ -90,7 +90,7 @@ void processBuffer()
     std::vector<double> output;
     fft(window, output);
     for (i = 0; i < n; i++) {
-//        std::cout << i*44100.0/(n*2) << ' ' << (output[i]) << std::endl; //use log10 or not?
+  std::cout << i*44100.0/(n*2) << ' ' << (output[i]) << std::endl; //use log10 or not?
     }
     v = returnSubbands(output, bandNumber);
     if (historyBuffer.size() < bandNumber) {
