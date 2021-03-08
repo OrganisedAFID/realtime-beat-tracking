@@ -100,7 +100,7 @@ void processBuffer()
             }
         }    
     std::cout << freqMax << std::endl;
-      //std::cout << i*44100.0/(n*2) << ' ' << (output[i]) << std::endl; //use log10 or not?
+    //std::cout << i*44100.0/(n*2) << ' ' << (output[i]) << std::endl; //use log10 or not?
     //std::cout << freqMaxIndex << std::endl;
     //std::cout << "------------------ " << std::endl; //use log10 or not?
     }
